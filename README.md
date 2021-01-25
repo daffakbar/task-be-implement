@@ -22,9 +22,13 @@ Daftar Endpoint :
 - /produk , method yang digunakan GET, POST
 - /produk/:id , method yang digunakan PUT, DELETE
 
-- /penjualan , method yang digunakan GET, POST
-- /penjualan/:id, method yang digunakan GET, DELETE
+- /penjualan , method yang digunakan POST
+- /penjualan/:id, method yang digunakan GET
+
+### Link Postman
+
+[Link Postman](https://documenter.getpostman.com/view/6043463/TW6uoUaa#66240922-e5dd-4729-a7b4-06b63b57fa03)
 
 ### Link Deploy Heroku 
 
-[Link Api heroku](https://example.com/)
+[Link Api heroku](https://tranquil-citadel-90903.herokuapp.com/)
